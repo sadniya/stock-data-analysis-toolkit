@@ -17,5 +17,5 @@ Note: SQLite comes built-in with Python, so there's no need to install a databas
 ## Progress
 - [x] Step 1: Download & clean stock data (saved to `prices_clean.csv`)
 - [x] Step 2: Load clean data to SQLite database (`stocks.db`)
-- [ ] Step 3: Compare queries in SQL vs Pandas
-- [ ] Step 4: Run NumPy exercises & Monte Carlo simulation
+- [x] Step 3: Compare queries in SQL vs Pandas
+- [x] Step 4: Run NumPy exercises & Monte Carlo simulation
