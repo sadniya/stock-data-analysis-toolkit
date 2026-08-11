@@ -27,3 +27,10 @@ Note: SQLite comes built-in with Python, so there's no need to install a databas
 * \[x] Step 4: Run NumPy exercises \& Monte Carlo simulation
 * \[x] Step 5: Build and run the interactive Streamlit dashboard
 
+## Dashboard (v1 — before redesign)
+
+Interactive Streamlit dashboard with ticker selection, rolling mean, correlation heatmap, and Monte Carlo simulation.
+
+![Price & Technicals](screenshots/v1-dashboard/01_price_and_technicals.png)
+![Correlation Heatmap](screenshots/v1-dashboard/03_correlation_heatmap.png)
+![Monte Carlo Simulation](screenshots/v1-dashboard/04_monte_carlo_simulation.png)
