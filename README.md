@@ -46,7 +46,7 @@ A professional financial dashboard integrating SQLite indexing, Pandas analytics
 - Inter-asset correlation heatmap across all 10 tickers
 - Dual-asset regression study — compare any two tickers' daily returns
 
-![Overview](screenshots/01_overview_header.png)
-![Price & Monte Carlo](screenshots/02_price_moving_averages_montecarlo.png)
-![Correlation & Regression](screenshots/03_correlation_regression.png)
-![Ticker Comparison](screenshots/04_ticker_comparison_dropdown.png)
+![Overview](screenshots/v2-dashboard/01_overview_header.png)
+![Price & Monte Carlo](screenshots/v2-dashboard/02_price_moving_averages_montecarlo.png)
+![Correlation & Regression](screenshots/v2-dashboard/03_correlation_regression.png)
+![Ticker Comparison](screenshots/v2-dashboard/04_ticker_comparison_dropdown.png)
