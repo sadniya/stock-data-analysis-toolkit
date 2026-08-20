@@ -25,7 +25,7 @@ Note: SQLite comes built-in with Python, so there's no need to install a databas
 * \[x] Step 2: Load clean data to SQLite database (`stocks.db`)
 * \[x] Step 3: Compare queries in SQL vs Pandas
 * \[x] Step 4: Run NumPy exercises \& Monte Carlo simulation
-* \[x] Step 5: Build and run the interactive Streamlit dashboard
+* \[x] Step 5: Build interactive Streamlit dashboard (final version — Quantitative Analytics Terminal)
 
 ## Dashboard (v1 — before redesign)
 
@@ -34,3 +34,19 @@ Interactive Streamlit dashboard with ticker selection, rolling mean, correlation
 ![Price & Technicals](screenshots/v1-dashboard/01_price_and_technicals.png)
 ![Correlation Heatmap](screenshots/v1-dashboard/03_correlation_heatmap.png)
 ![Monte Carlo Simulation](screenshots/v1-dashboard/04_monte_carlo_simulation.png)
+
+## 🖥️ Quantitative Analytics Terminal Stock Analysis Toolkit (Final Version)
+
+A professional financial dashboard integrating SQLite indexing, Pandas analytics, and Monte Carlo NumPy projections.
+
+**Features:**
+- SMA crossover signals (configurable short/long windows) with BUY/SELL indicators
+- Candlestick price chart with moving averages
+- Monte Carlo simulation (configurable paths & forecast days) with percentile bands
+- Inter-asset correlation heatmap across all 10 tickers
+- Dual-asset regression study — compare any two tickers' daily returns
+
+![Overview](screenshots/v2-final/01_overview_header.png)
+![Price & Monte Carlo](screenshots/v2-final/02_price_moving_averages_montecarlo.png)
+![Correlation & Regression](screenshots/v2-final/03_correlation_regression.png)
+![Ticker Comparison](screenshots/v2-final/04_ticker_comparison_dropdown.png)
